@@ -1,14 +1,17 @@
 ## ✌️HELLO HERE! 
 ### I'm Command_man: Apprendice Developer
-- 🌱 I am learning C++, Java and JavaScript for Minecraft plugin and script!!
+- 🌱 I am learning Java and JavaScript for Minecraft plugin and script!!
+- Sometimes i study for C++
 
 ### What i do ↴
 
 -  🖥️ I develop well server Minecraft (Java Edition-Bedrock).
+-  💾 Chat GPT Supporter
+-  🎮 Pc Gamer (VALORANT,Minecraft,COD ecc.)
 
 ### 💬 How to contact me?
-- @gmail.com 📗
-- [Telegram] 📕
+- server.help.info.me@gmail.com 4️⃣0️⃣4️⃣
+- [Telegram] 👾
 - [Discord]<a href="https://discord.gg/z2McK9WRkQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/yDvJ4pYmuq" height="30" width="40" /></a>
 </p>
 
